@@ -24,7 +24,7 @@ I am a Computer Science student, currently expanding my knowledge in data analys
 
 📌 Outside Tech:
 - Beyond programming, I enjoy 🎮 playing videogames, 📖 reading classic literature,🎵 listen to music, and 🍳 cooking.
-- 📫 Reach out to me at: <a href="leydlaydrobles@gmail.com">LeydLAyd</a>
+- 📫 Reach out to me at: <a href="diegoroblesgarcia347@gmail.com">Diego</a>
 
 
 <Br>
