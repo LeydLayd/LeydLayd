@@ -55,7 +55,6 @@ I am a Computer Science student, currently expanding my knowledge in data analys
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeydLayd&theme=dark&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LeydLayd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-
 
